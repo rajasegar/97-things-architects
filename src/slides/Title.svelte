@@ -13,22 +13,6 @@
     });
 </script>
 
-<Slide>
-    <h2>
-        {#await title}
-            Wait a sec...
-        {:then result}
-            {result}
-        {/await}
-    </h2>
-
-		<Code lineNumbers trim noescape>
-    {
-    `const name = "hello world";
-    if(name === 'hello') {
-      console.log('world');
-    }
-    `
-    }
-		</Code>
+<Slide twclass="bg-indigo-100">
+    <h2 class="text-indigo-500">Collective Wisdom for the Architects </h2>
 </Slide>

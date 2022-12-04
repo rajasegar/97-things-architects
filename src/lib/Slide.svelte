@@ -1,5 +1,8 @@
 <script>
 
+ // Tailwind class
+ export let twclass;
+
  // Color Backgrounds
  export let bgColor;
 
@@ -21,6 +24,7 @@
  // Transitions
 </script>
 <section
+		class={twclass}
 		data-background-color={bgColor}
 													data-background-gradient={bgGradient}
 		data-background-image={bgImage}

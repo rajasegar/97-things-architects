@@ -1,7 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+		--bg-red: #f00;
+}
 #app {
   width: 100%;
   margin: 0 auto;
   text-align: center;
   height: 100vh;
+}
+
+@font-face {
+  font-family: 'Bebrush';
+  src: url('./assets/fonts/Bebrush.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Brushot-Bold';
+  src: url('./assets/fonts/Brushot-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Webrush';
+  src: url('./assets/fonts/Webrush.ttf') format('truetype');
+}
+
+.bebrush {
+		font-family: 'Bebrush'!important;
+		font-weight: normal!important;
+}
+
+.brushot {
+		font-family: 'Brushot-Bold'!important;
+}
+
+.webrush {
+		font-family: 'Webrush'!important;
 }
 
