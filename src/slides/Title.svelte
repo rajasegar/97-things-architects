@@ -13,6 +13,6 @@
     });
 </script>
 
-<Slide twclass="bg-indigo-100">
-    <h2 class="text-indigo-500">Collective Wisdom for the Architects </h2>
+<Slide>
+    <h2 class="bebrush text-yellow-500">Collective Wisdom for the Architects </h2>
 </Slide>

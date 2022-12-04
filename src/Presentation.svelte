@@ -3,6 +3,7 @@
  import ResumeSlide from './slides/Resume-ahead-requirements.svelte';
  import EssentialComplexity from './slides/Simplify-essential-complexity.svelte';
  import BiggestProblem from './slides/Biggest-Problems-not-technical.svelte';
+ import Communication from './slides/Communication-is-King.svelte';
 
 </script>
 
@@ -10,3 +11,4 @@
 <ResumeSlide/>
 <EssentialComplexity/>
 <BiggestProblem/>
+<Communication/>
