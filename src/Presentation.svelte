@@ -4,6 +4,7 @@
  import EssentialComplexity from './slides/Simplify-essential-complexity.svelte';
  import BiggestProblem from './slides/Biggest-Problems-not-technical.svelte';
  import Communication from './slides/Communication-is-King.svelte';
+ import SeekValue from './slides/Seek-Value.svelte';
 
 </script>
 
@@ -12,3 +13,4 @@
 <EssentialComplexity/>
 <BiggestProblem/>
 <Communication/>
+<SeekValue/>

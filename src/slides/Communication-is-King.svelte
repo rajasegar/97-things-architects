@@ -26,6 +26,7 @@
     </Slide>
 
     <Slide>
+				<h3 class="bebrush text-yellow-500">Every software architect</h3>
         <ul>
             <li>Communicate Goals & Objectives - How?</li>
             <li>Key to effective communication: Clarity & Leadership</li>
@@ -35,10 +36,14 @@
 
     <Slide>
         <h1 class="bebrush text-yellow-500">Clarity</h1>
+				<p>How you communicate?</p>
         </Slide>
 
 
         <Slide>
+						<div class="grid place-items-center">
+								<iframe src="https://giphy.com/embed/LpctNbdeSaRvPP7jxM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+						</div>
             <h3>Vital to the success of any software project</h3>
             <p>
                 Be clear and concise in the way you communicate your ideas
@@ -48,14 +53,37 @@
 
         <Slide>
             <p>Keep things as simple as possible</p>
+						<p class="text-red-500">Do not start writing lengthy documents</p>
         </Slide>
+
+				<Slide>
+						<h2 class="bebrush text-yelow-500">Diagramming tools</h2>
+						<ul>
+						<li>Simple diagrams to convey your thoughts</li>
+						<li>Keep them simple</li>
+						<li>Changing Frequently</li>
+						</ul>
+				</Slide>
 
         <Slide>
             <h2 class="bebrush">Informal Whiteboard meetings</h2>
             <div class="grid place-items-center">
                 <iframe src="https://giphy.com/embed/uLYTKQE2cftpLFMpEG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
                 </div>
+								<ul>
+										<li>Get your ideas across</li>
+										<li>Bringing a group of developers</li>
+										<li>Whiteboarding your ideas</li>
+								</ul>
             </Slide>
+
+						<Slide>
+								<h3 class="bebrush text-yellow-500">More Frustrating</h3>
+								<div class="grid place-items-center">
+										<iframe src="https://giphy.com/embed/3o7btMlQyXc1menvbO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+								</div>
+								<p>All of your ideas stuck on a whiteboard</p>
+						</Slide>
         
         
 
@@ -88,10 +116,12 @@
         </Slide>
 
         <Slide>
-                <h3>Having the developer on your side</h3>
+                <h3 class="bebrush text-yellow-500">Having the developer on your side</h3>
             <ul>
                 <li>Collaborative environment</li>
                 <li>Decisions are validated</li>
+                <li>Buy-in from developers</li>
+                <li>Keeping them involved in the architecture process</li>
             </ul>
         </Slide>
 
@@ -104,7 +134,7 @@
             <h3 class="bebrush text-yellow-500">Employing Clarity & Demonstrating effective leadership</h3>
             <ul>
                 <li>Improve communication</li>
-                <li>Create Strong & Healthy work environment</li>
+                <li>Strong & Healthy work environment</li>
             </ul>
             
         </Slide>
