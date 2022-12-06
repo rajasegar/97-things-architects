@@ -9,7 +9,8 @@
 				<h3 class="bebrush">Viable solution <span class="text-yellow-500">x</span> Requirement</h3>
 		</Slide>
 		<Slide>
-				<h2 class="bebrush">F-16 Falcon</h2>
+				<h2 class="bebrush">Classic Story</h2>
+				<p>Harry Hillaker - Lead desinger of F-16 Falcon</p>
 				<Center>
 				<img src="/assets/images/F16.jpeg" alt="F16 Falcon"/>
 				</Center>
@@ -19,10 +20,11 @@
 				</ul>
 		</Slide>
 		<Slide>
-				<h2 class="bebrush text-yellow-500">Real need on the table</h2>
+				<Head2>Why Mach 2.5?</Head2>
 				<p>to be able to escape from combat</p>
 		</Slide>
 		<Slide>
+				<h2 class="bebrush text-yellow-500">Real need on the table</h2>
 				<ul>
 						<li>Address the root problem</li>
 						<li>Provide a working solution</li>

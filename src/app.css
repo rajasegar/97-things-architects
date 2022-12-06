@@ -28,6 +28,18 @@
   src: url('./assets/fonts/Webrush.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url('./assets/fonts/BebasNeue-Regular.otf') format('opentype');
+}
+
+
+@font-face {
+  font-family: 'Lemon Milk';
+  src: url('./assets/fonts/LEMONMILK-Regular.otf') format('opentype');
+}
+
+
 .bebrush {
 		font-family: 'Bebrush'!important;
 		font-weight: normal!important;
@@ -39,5 +51,15 @@
 
 .webrush {
 		font-family: 'Webrush'!important;
+}
+
+.bebasneue {
+		font-family: 'Bebas Neue'!important;
+		font-weight: normal!important;
+}
+
+.lemon-milk {
+		font-family: 'Lemon Milk'!important;
+		font-weight: normal!important;
 }
 
