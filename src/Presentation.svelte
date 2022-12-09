@@ -9,6 +9,7 @@
  import Negotiating  from './slides/You-are-negotiating.svelte';
  import Quantify from './slides/Quantify.svelte';
  import Balancing from './slides/Balancing.svelte';
+ import BusinessDrives from './slides/Business-Drives.svelte';
 
 </script>
 
@@ -22,3 +23,4 @@
 <Negotiating/>
 <Quantify/>
 <Balancing/>
+<BusinessDrives/>

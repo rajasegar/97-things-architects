@@ -48,10 +48,6 @@
 				<p>No answer => The need is not understood</p>
 		</Slide>
 		<Slide>
-				<LemonMilkHeading2>Last thing</LemonMilkHeading2>
-				<p>Made concessions on the first demand</p>
-		</Slide>
-		<Slide>
 				<LemonMilkHeading2>Counter negotiating gambit</LemonMilkHeading2>
 				<ul>
 						<li>Upping the ante</li>
