@@ -16,6 +16,7 @@
 		<Slide>
 				<LemonMilkHeading2>Primary reason</LemonMilkHeading2>
 				<p>No objective way to tell if met</p>
+				<p>Still users want them</p>
 		</Slide>
 		<Slide>
 				<LemonMilkHeading2>Architect's Role</LemonMilkHeading2>
@@ -26,9 +27,14 @@
 		</Slide>
 		<Slide>
 				<LemonMilkHeading2>Objective criteria</LemonMilkHeading2>
-				<p>At the mercy of capricious users & obsessive programmers</p>
+				<p>At the mercy of: </p>
+				<ul>
+						<li>Capricious users</li>
+						<li>Obsessive programmers</li>
+				</ul>
 		</Slide>
 		<Slide>
+				<p>As with all requirements, we seek to write down these desires </p>
 				<LemonMilkHeading2>Vague adjectives</LemonMilkHeading2>
 				<ul>
 						<li>Flexible</li>
@@ -38,7 +44,7 @@
 		</Slide>
 		<Slide>
 				<p>Every case</p>
-				<Head3>Phenomena can be quantified and thresholds set</Head3>
+				<Head3>can be quantified & thresholds set</Head3>
 		</Slide>
 		<Slide>
 				<Head2>If not done</Head2>
@@ -58,12 +64,13 @@
 						<li>Increasing or decreasing?</li>
 						<li>At what rate?</li>
 				</ul>
-				<p>No answer => The need is not understood</p>
+				<p>Can't be answered => Need is not understood</p>
 		</Slide>
 
 		<Slide>
 				<p>Answers &rarr; Business case for the system</p>
-				<p>If not &rarr; Some hard thinking needs to be done</p>
+				<p>If not:  </p>
+				<Head2>hard thinking</Head2>
 		</Slide>
 		<Slide>
 				<p>If the business hasn't (won't) tell you those numbers</p>
@@ -84,6 +91,48 @@
 				<Center>
 				<img src="/assets/images/uncertain-quantitative-criteria.jpg" alt="uncertain quantitative criteria"/>
 				</Center>
+		</Slide>
+
+		<Slide>
+				<p>Range cannot be given</p>
+				<Head3>required behavior is not understood</Head3>
+		</Slide>
+		<Slide>
+				<Head2>Architecture unfolds</Head2>
+				<p>Checked against these criteria to see if it is in tolerance</p>
+		</Slide>
+
+		<Slide>
+				<Head3>Performance drifts</Head3>
+				<p>Valuable feedback is obtained</p>
+		</Slide>
+
+		<Slide>
+				<p>Finding these ranges & checking against them</p>
+				<Head3>Time-consuming & expensive business</Head3>
+		</Slide>
+
+		<Slide>
+				<Head2>No one cares</Head2>
+				<ul>
+						<li>The System being performant</li>
+						<li>Pay for performance trials</li>
+						<li>More than likely performance doesn't matter</li>
+				</ul>
+		</Slide>
+
+		<Slide>
+				<Head3>Free to focus your architectural efforts</Head3>
+				<p>Aspects of the system worth paying for</p>
+		</Slide>
+
+		<Slide>
+				<ul>
+						<li>Must respond to user input no more than 1500 ms</li>
+						<li>Under normal load, avg response time 750 - 1250 ms</li>
+						<li>Response time less than 500 ms => can't be distinguished => We won't pay  to go below</li>
+				</ul>
+				<Head3>Now, that's a requirement</Head3>
 		</Slide>
 
 		<Slide>
