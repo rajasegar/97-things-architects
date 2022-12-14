@@ -11,6 +11,8 @@
  import Balancing from './slides/Balancing.svelte';
  import BusinessDrives from './slides/Business-Drives.svelte';
 
+ import Uncertainty from './slides/24-Use-Uncertainty-As-a-Driver.svelte';
+
 </script>
 
 <Title/>
@@ -24,3 +26,4 @@
 <Quantify/>
 <Balancing/>
 <BusinessDrives/>
+<Uncertainty/>
