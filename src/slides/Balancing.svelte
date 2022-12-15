@@ -37,9 +37,9 @@
 				<p>Ensure completeness of requirements specification</p>
 		</Slide>
 		<Slide>
+				<p>Analyzing the stakeholders and their interests</p>
 				<Head2>Ultimate set of priorities</Head2>
 				<p>Bearing on a software architect</p>
-				<p>Analyzing the stakholders and their interests</p>
 		</Slide>
 		<Slide>
 				<Head2>Software architecting</Head2>
@@ -48,6 +48,7 @@
 						<li>Short term</li>
 						<li>Long term</li>
 				</ul>
+				<p>Appropriate to the context at hand</p>
 		</Slide>
 		<Slide>
 				<Head2>Engg dept of SAAS business</Head2>
@@ -66,6 +67,9 @@
 						<li>Ensuring the functionality</li>
 						<li>Correctness</li>
 						<li>Quality attributes ("-ilities")</li>
+				</ul>
+				<hr/>
+				<ul>
 						<li>Ensuring the productivity of the Dev team</li>
 						<li>Sustainability & Auditability of Dev operations</li>
 						<li>Adaptability & Longevity of software products</li>
@@ -86,11 +90,11 @@
 		</Slide>
 		<Slide>
 				<Head3>Consciously tilt the balance</Head3>
-				<p>In order to truly do the job well</p>
 				<ul>
 						<li><span class="font-bold text-yellow-400">Short term</span>: In favor of one priority </li>
 						<li><span class="font-bold text-yellow-400">Long term</span>: Better maintain a proper balance</li>
 				</ul>
+				<p>In order to truly do the job well</p>
 		</Slide>
 		<Slide>
 				<Head3>Balance appropriate to the context</Head3>
