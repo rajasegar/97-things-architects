@@ -1,7 +1,7 @@
 <script>
  import Slide from '../lib/Slide.svelte';
- import Head2 from '../lib/LemonMilk/Head2.svelte';
- import Head3 from '../lib/LemonMilk/Head3.svelte';
+ import Head2 from '../lib/Cocogoose/Head2.svelte';
+ import Head3 from '../lib/Cocogoose/Head3.svelte';
 </script>
 
 <Slide>
@@ -24,12 +24,47 @@
         <p>Architect leads technology-oriented decision making</p>
     </Slide>
     <Slide>
-        <Head2> Return on Investment (ROI) </Head2>
+        <Head2> Return on Investment</Head2>
         <ul>
             <li>Routinely plan for</li>
             <li>Articulate, a specific, desired return </li>
         </ul>
     </Slide> 
+		<Slide>
+				<p>The extent business community </p>
+						<Head3>fails to fulfill its responsibility</Head3>
+						<ul>
+								<li>Provide direction</li>
+								<li>Answer questions</li>
+								<li>Make business decisions</li>
+						</ul>
+						<p>Acutally delegating the business decision making to Software Devs</p>
+		</Slide>
+		<Slide>
+				<Head2>Macro-context</Head2>
+				<p>Ongoing series of micro-decisions made by developers</p>
+				<ul>
+						<li>Communicating and protecting the sofware architecture & business objectives</li>
+						<li>Ensure that developers do no make business decisions</li>
+				</ul>
+		</Slide>
+		<Slide>
+				<Head3>Technical decision making untethered</Head3>
+				<ul>
+						<li>Commitments</li>
+						<li>Expectations</li>
+						<li>Realities</li>
+				</ul>
+				<p>Articulated by business community - ongoing basis</p>
+
+						<Head2>Costly speculation</Head2>
+						<Head3>Unjustifiable expenditure</Head3>
+
+		</Slide>
+		<Slide>
+				<Head2>Long-term interests of Software Dev Team</Head2>
+				<p>Best served when business drives</p>
+		</Slide>
     <Slide>
         <Head2>Business Drives</Head2>  
     </Slide>

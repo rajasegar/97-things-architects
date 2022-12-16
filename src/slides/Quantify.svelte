@@ -1,7 +1,6 @@
 <script>
  import Slide from '../lib/Slide.svelte';
  import Center from '../lib/Center.svelte';
- import LemonMilkHeading2 from '../lib/LemonMilkHeading2.svelte';
  import Head2 from '../lib/LemonMilk/Head2.svelte';
  import Head3 from '../lib/LemonMilk/Head3.svelte';
 </script>
@@ -14,19 +13,19 @@
 				</ul>
 		</Slide>
 		<Slide>
-				<LemonMilkHeading2>Primary reason</LemonMilkHeading2>
+				<Head2>Primary reason</Head2>
 				<p>No objective way to tell if met</p>
 				<p>Still users want them</p>
 		</Slide>
 		<Slide>
-				<LemonMilkHeading2>Architect's Role</LemonMilkHeading2>
+				<Head2>Architect's Role</Head2>
 				<ul>
 						<li>Help the system have these qualities</li>
 						<li>Balance the inevitable conflicts & inconsistencies</li>
 				</ul>
 		</Slide>
 		<Slide>
-				<LemonMilkHeading2>Objective criteria</LemonMilkHeading2>
+				<Head2>Objective criteria</Head2>
 				<p>At the mercy of: </p>
 				<ul>
 						<li>Capricious users</li>
@@ -35,7 +34,7 @@
 		</Slide>
 		<Slide>
 				<p>As with all requirements, we seek to write down these desires </p>
-				<LemonMilkHeading2>Vague adjectives</LemonMilkHeading2>
+				<Head2>Vague adjectives</Head2>
 				<ul>
 						<li>Flexible</li>
 						<li>Maintainable</li>
@@ -55,7 +54,7 @@
 				</ul>
 		</Slide>
 		<Slide>
-				<LemonMilkHeading2>Simple questions</LemonMilkHeading2>
+				<Head2>Simple questions</Head2>
 				<ul>
 						<li>How many?</li>
 						<li>In what period?</li>
@@ -136,6 +135,6 @@
 		</Slide>
 
 		<Slide>
-				<LemonMilkHeading2>Quantify</LemonMilkHeading2>
+				<Head2>Quantify</Head2>
 		</Slide>
 </Slide>

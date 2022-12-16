@@ -40,6 +40,11 @@
 }
 
 
+@font-face {
+  font-family: 'Cocogoose';
+  src: url('./assets/fonts/Cocogoose-Pro-Light.ttf') format('truetype');
+}
+
 .bebrush {
 		font-family: 'Bebrush'!important;
 		font-weight: normal!important;
@@ -63,3 +68,8 @@
 		font-weight: normal!important;
 }
 
+
+.cocogoose {
+		font-family: 'Cocogoose'!important;
+		font-weight: normal!important;
+}
