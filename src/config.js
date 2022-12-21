@@ -14,6 +14,8 @@ export default {
     },
     // Reveal Config
     reveal: {
+        width: 1280,
+				height: 1024,
         plugins: [Highlight, RevealNotes],
         hash: true,
       mathjax2: {
