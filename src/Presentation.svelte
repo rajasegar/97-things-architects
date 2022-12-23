@@ -12,6 +12,7 @@
  import BusinessDrives from './slides/Business-Drives.svelte';
 
  import Uncertainty from './slides/24-Use-Uncertainty-As-a-Driver.svelte';
+ import ReuseisAboutPeople from './slides/26-Reuse-Is-About-People-and-Education-Not-Just-Architecture.svelte';
 
 </script>
 
@@ -27,3 +28,4 @@
 <Balancing/>
 <BusinessDrives/>
 <Uncertainty/>
+<ReuseisAboutPeople/>
